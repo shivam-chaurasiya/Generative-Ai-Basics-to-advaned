@@ -14,6 +14,7 @@ what purpose they do serve:
 1. Cleaner code
 2. Faster execution
 
+----
 
 1. List Comprehensions: Creates a new list by applying an expression to each item in an iterable.
 Syntax: [expression for item in iterable if condition]
@@ -26,6 +27,6 @@ Syntax: {expression for item in iterable if condition}
 
 Syntax: {key_expression : value_expression for item in iterable if condition}
 
-4. Generator Comprehension: Looks similar to a list comprehension but uses parentheses. It produces items lazily (on demand) rather than loading the entire collection into memory at once, making it highly memory-efficient for massive datasets.
+4. Generator Comprehension(Generator expression): Looks similar to a list comprehension but uses parentheses. It produces items lazily (on demand) rather than loading the entire collection into memory at once, making it highly memory-efficient for massive datasets.
 
 Syntax: (expression for item in iterable if condition)
