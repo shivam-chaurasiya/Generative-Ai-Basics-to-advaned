@@ -33,3 +33,7 @@ Automatic Chain-of-Thought (Auto-CoT): When applying chain-of-thought prompting 
 
 
 Persona Prompting: Persona prompting is a technique where you instruct an AI to adopt a specific identity, role, or background before executing a task. By defining the role, tone, and context, you shape how the model filters its knowledge base to produce outputs tailored to a specific perspective
+
+Agentic Ai: 
+
+RAG: Retrieval-Augmented Generation (RAG) is an AI framework that improves Large Language Model (LLM) responses by fetching relevant data from external knowledge bases before generating an answer.
