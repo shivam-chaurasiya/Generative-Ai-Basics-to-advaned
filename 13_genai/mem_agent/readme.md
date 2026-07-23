@@ -11,3 +11,5 @@
 ### - Your Name
 ### - Your Age 
 ###  Fatual Memory, Episodic Memory, Semantic Memory.
+
+## 1.Short Term Memory: 
